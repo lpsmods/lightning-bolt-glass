@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "Lightning Bolt Glass Add-On",
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "files.associations": {
+      "*.json": "jsonc",
+    },
+  },
+}

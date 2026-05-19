@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "c1618644-070c-4129-9ba6-ec79458b923d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 90],
+    "pack_scope": "world"
+  },
+  "metadata": {
+    "authors": ["Legopitstop"],
+    "license": "https://license.lpsmods.dev",
+    "url": "https://lpsmods.dev",
+    "product_type": "addon"
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "resources",
+      "uuid": "7421093e-d33e-4e1b-abca-7e6bb58fec7f",
+      "version": [1, 0, 0]
+    }
+  ]
+}

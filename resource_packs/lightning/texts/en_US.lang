@@ -1,0 +1,7 @@
+﻿pack.name=Lightning Bolt Glass Add-On
+pack.description=§av1.0.0§r - What is Lightning Bolt Glass? Whenever lightning hits sand it turns into glass! §8Developer: §6Legopitstop
+
+guide.lpsm_lightning:desc=Welcome to §lLightning Bolt Glass§r! desc
+guide.lpsm_lightning:changelogs=Changelogs
+
+item.lpsm_lightning:guide_book=Guide Book\n§aLightning Bolt Glass Add-On§r
