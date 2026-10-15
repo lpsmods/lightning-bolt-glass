@@ -10,7 +10,7 @@ Whenever lightning hits sand it turns into glass
 
 This repository has multiple branches for each platform this Minecraft mod supports.
 
-- [`datapack`](https://github.com/lpsmods/lightning-bolt-glass/tree/datapack)
+- [`1.21`](https://github.com/lpsmods/lightning-bolt-glass/tree/1.21)
 - [`bedrock`](https://github.com/lpsmods/lightning-bolt-glass/tree/bedrock)
 
 ## Mod Data
