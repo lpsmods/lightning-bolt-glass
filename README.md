@@ -15,10 +15,10 @@ This repository has multiple branches for each platform this Minecraft mod suppo
 
 ## Mod Data
 
-| Key                  | Value                  |
-| -------------------- | ---------------------- |
-| namespace            | `lpsm_lightning`       |
-| lightning-bolt-glass | `lightning-bolt-glass` |
+| Key       | Value                  |
+| --------- | ---------------------- |
+| namespace | `lpsm_lightning`       |
+| slug      | `lightning-bolt-glass` |
 
 ## LINKS
 
